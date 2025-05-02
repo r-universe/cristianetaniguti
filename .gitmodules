@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Qploidy"]
+	path = Qploidy
+	url = https://github.com/cristianetaniguti/qploidy
 [submodule "onemap"]
 	path = onemap
 	url = https://github.com/cristianetaniguti/onemap
